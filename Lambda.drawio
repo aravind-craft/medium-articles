@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T15:05:36.252Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="C2-p9RpLCperix7HPH6v" version="21.2.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-27T15:07:41.955Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OKeOLfzKCgFTWB1hz7pn" version="21.2.3" type="github" pages="3">
   <diagram name="manual trigger" id="ZW21x3WxDeERBMx6ZOWc">
     <mxGraphModel dx="1129" dy="1139" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -152,7 +152,7 @@
         <mxCell id="LzzqUYo7yADfbTOkQvuO-6" value="Tin = Incoming Message" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="91" y="358" width="153" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LzzqUYo7yADfbTOkQvuO-7" value="Your program" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LzzqUYo7yADfbTOkQvuO-7" value="Your app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-155" y="673" width="120" height="51" as="geometry" />
         </mxCell>
         <mxCell id="LzzqUYo7yADfbTOkQvuO-8" value="Name : &quot;Me&quot;" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -229,6 +229,24 @@
         </mxCell>
         <mxCell id="LzzqUYo7yADfbTOkQvuO-30" value="&quot;Deserialization&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="185" y="555" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LzzqUYo7yADfbTOkQvuO-32" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="5" y="561" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="LzzqUYo7yADfbTOkQvuO-33" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="209" y="519" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="LzzqUYo7yADfbTOkQvuO-34" value="CLIENT" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-151" y="813" as="sourcePoint" />
+            <mxPoint x="-32" y="811" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LzzqUYo7yADfbTOkQvuO-35" value="SERVER" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="277" y="804" as="sourcePoint" />
+            <mxPoint x="539" y="800" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
